@@ -1,0 +1,12 @@
+2024-06-23 23:13:11.422694: Preliminaries complete. Initiating ETL process
+2024-06-23 23:13:14.557988: Data extraction complete. Initiating Transformation process
+2024-06-23 23:13:15.091732: Extraction completed
+2024-06-23 23:13:15.140816: Data transformation complete. Initiating Loading process
+2024-06-23 23:13:15.140816: Extraction Completed
+2024-06-23 23:13:15.147649: Data saved to CSV file
+2024-06-23 23:13:15.147649: DataFrame has been uploaded into the csv file on our system
+2024-06-23 23:13:15.220514: Data loaded to Database as a table, Executing queries
+2024-06-23 23:13:15.220641: DataFrame has been uploaded into the SQLite Database succesfully!
+2024-06-23 23:13:15.221661: Process Complete
+2024-06-23 23:13:15.855182: Process Complete
+2024-06-23 23:13:15.890822: Process Complete
